@@ -6,9 +6,13 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,ghy.myds.me:6699
+DOMAIN-SUFFIX,ghy.myds.me
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,ghy.myds.me
+DOMAIN,ghy.myds.me
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve

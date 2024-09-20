@@ -5,7 +5,7 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
-DOMAIN-SUFFIX,ghy.myds.me
+DOMAIN-SUFFIX,ghy.myds.me:6699
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
